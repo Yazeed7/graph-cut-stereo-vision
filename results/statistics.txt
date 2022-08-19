@@ -1,0 +1,84 @@
+Art_naive 0bad (normal, filtered 3x3 median) = 39.69, 43.43
+Art_naive 1bad (normal, filtered 3x3 median) = 50.46, 54.54
+Art_naive 2bad (normal, filtered 3x3 median) = 53.66, 57.56
+
+Art_disp_aware_naive 0bad (normal, filtered 3x3 median) = 40.95, 44.17
+Art_disp_aware_naive 1bad (normal, filtered 3x3 median) = 52.32, 55.69
+Art_disp_aware_naive 2bad (normal, filtered 3x3 median) = 55.87, 59.02
+
+Art_graph_cut 0bad (normal, filtered 3x3 median) = 42.20, 43.55
+Art_graph_cut 1bad (normal, filtered 3x3 median) = 57.28, 58.43
+Art_graph_cut 2bad (normal, filtered 3x3 median) = 60.36, 61.34
+
+--------------------------------------------------
+
+Books_naive 0bad (normal, filtered 3x3 median) = 35.61, 40.07
+Books_naive 1bad (normal, filtered 3x3 median) = 45.81, 50.97
+Books_naive 2bad (normal, filtered 3x3 median) = 49.19, 54.41
+
+Books_disp_aware_naive 0bad (normal, filtered 3x3 median) = 39.08, 43.12
+Books_disp_aware_naive 1bad (normal, filtered 3x3 median) = 50.30, 54.84
+Books_disp_aware_naive 2bad (normal, filtered 3x3 median) = 54.12, 58.61
+
+Books_graph_cut 0bad (normal, filtered 3x3 median) = 50.35, 52.20
+Books_graph_cut 1bad (normal, filtered 3x3 median) = 62.84, 64.44
+Books_graph_cut 2bad (normal, filtered 3x3 median) = 65.95, 67.38
+
+--------------------------------------------------
+
+Dolls_naive 0bad (normal, filtered 3x3 median) = 54.39, 57.55
+Dolls_naive 1bad (normal, filtered 3x3 median) = 64.89, 68.28
+Dolls_naive 2bad (normal, filtered 3x3 median) = 67.89, 71.33
+
+Dolls_disp_aware_naive 0bad (normal, filtered 3x3 median) = 55.27, 57.86
+Dolls_disp_aware_naive 1bad (normal, filtered 3x3 median) = 66.34, 69.01
+Dolls_disp_aware_naive 2bad (normal, filtered 3x3 median) = 69.71, 72.29
+
+Dolls_graph_cut 0bad (normal, filtered 3x3 median) = 55.45, 56.63
+Dolls_graph_cut 1bad (normal, filtered 3x3 median) = 67.86, 69.02
+Dolls_graph_cut 2bad (normal, filtered 3x3 median) = 71.08, 72.15
+
+--------------------------------------------------
+
+Laundry_naive 0bad (normal, filtered 3x3 median) = 30.96, 34.40
+Laundry_naive 1bad (normal, filtered 3x3 median) = 41.35, 45.54
+Laundry_naive 2bad (normal, filtered 3x3 median) = 44.89, 49.03
+
+Laundry_disp_aware_naive 0bad (normal, filtered 3x3 median) = 33.51, 36.49
+Laundry_disp_aware_naive 1bad (normal, filtered 3x3 median) = 45.73, 49.20
+Laundry_disp_aware_naive 2bad (normal, filtered 3x3 median) = 50.09, 53.52
+
+Laundry_graph_cut 0bad (normal, filtered 3x3 median) = 36.63, 38.08
+Laundry_graph_cut 1bad (normal, filtered 3x3 median) = 51.44, 53.27
+Laundry_graph_cut 2bad (normal, filtered 3x3 median) = 58.52, 60.24
+
+--------------------------------------------------
+
+Moebius_naive 0bad (normal, filtered 3x3 median) = 44.24, 48.50
+Moebius_naive 1bad (normal, filtered 3x3 median) = 53.64, 58.07
+Moebius_naive 2bad (normal, filtered 3x3 median) = 56.60, 61.10
+
+Moebius_disp_aware_naive 0bad (normal, filtered 3x3 median) = 46.63, 50.64
+Moebius_disp_aware_naive 1bad (normal, filtered 3x3 median) = 56.83, 60.83
+Moebius_disp_aware_naive 2bad (normal, filtered 3x3 median) = 60.17, 64.08
+
+Moebius_graph_cut 0bad (normal, filtered 3x3 median) = 52.10, 53.56
+Moebius_graph_cut 1bad (normal, filtered 3x3 median) = 61.67, 62.84
+Moebius_graph_cut 2bad (normal, filtered 3x3 median) = 65.28, 66.39
+
+--------------------------------------------------
+
+Reindeer_naive 0bad (normal, filtered 3x3 median) = 40.78, 45.14
+Reindeer_naive 1bad (normal, filtered 3x3 median) = 48.75, 53.79
+Reindeer_naive 2bad (normal, filtered 3x3 median) = 51.98, 57.18
+
+Reindeer_disp_aware_naive 0bad (normal, filtered 3x3 median) = 44.01, 48.59
+Reindeer_disp_aware_naive 1bad (normal, filtered 3x3 median) = 53.36, 58.33
+Reindeer_disp_aware_naive 2bad (normal, filtered 3x3 median) = 57.98, 62.92
+
+Reindeer_graph_cut 0bad (normal, filtered 3x3 median) = 51.16, 52.19
+Reindeer_graph_cut 1bad (normal, filtered 3x3 median) = 60.90, 61.92
+Reindeer_graph_cut 2bad (normal, filtered 3x3 median) = 65.84, 66.82
+
+--------------------------------------------------
+

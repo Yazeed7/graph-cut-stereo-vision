@@ -1,0 +1,14 @@
+name: cv_proj
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib=3.1.1
+  - networkx=2.2
+  - numba=0.54.1
+  - numpy=1.19.5
+  - pip=21.2.2
+  - python=3.7.11
+  - tqdm=4.63.0
+  - pip:
+    - opencv-contrib-python==4.1.2.30
